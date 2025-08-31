@@ -5,13 +5,13 @@
 ![Discord.py](https://img.shields.io/badge/Discord.py-v1.7.3-blue)
 ## About Me
 
-Hi! I'm Pranav Dudhal, a Physics student with a strong foundation in statistics, an insatiable curiosity for technology, and a creative spirit fueled by ADHD. I’m constantly diving into new tech projects, learning as much as I can, and using my ADHD to explore a wide range of interests. I might forget what I learned last week, but the joy is in the journey, and each project teaches me something new!
+Hi! I'm Pranav Dudhal, a Data Science student at MIT-EPU with bachelor's degree in Physics with a strong foundation in statistics, an insatiable curiosity for technology, and a creative spirit fueled by ADHD. I’m constantly diving into new tech projects, learning as much as I can, and using my ADHD to explore a wide range of interests. I might forget what I learned last week, but the joy is in the journey, and each project teaches me something new!
 
 ## How ADHD Fuels My Creativity
 
 ADHD gives me the energy and curiosity to explore multiple interests at once, making every day a new adventure. Whether it’s building a Discord bot, automating tasks, or diving into financial markets, I use my ADHD as a superpower to fuel my learning and creativity.
 
-- **Quick Learning**: My ADHD helps me rapidly absorb new technologies, even if I forget some details later—what matters is the knowledge I gain and the projects I create.
+- **Quick Learning**: My ADHD helps me rapidly absorb new technologies, even if I forget some details later what matters is the knowledge I gain and the projects I create.
 - **Diverse Interests**: I thrive on exploring various fields, from physics and statistics to automation and software development.
 - **Continuous Growth**: My journey is not just about the destination but about the joy of learning and the growth that comes with it.
 

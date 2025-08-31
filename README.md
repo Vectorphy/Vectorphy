@@ -5,7 +5,7 @@
 ![Discord.py](https://img.shields.io/badge/Discord.py-v1.7.3-blue)
 ## About Me
 
-Hi! I'm Pranav Dudhal, a Data Science student at MIT-EPU with bachelor's degree in Physics with a strong foundation in statistics, an insatiable curiosity for technology, and a creative spirit fueled by ADHD. I’m constantly diving into new tech projects, learning as much as I can, and using my ADHD to explore a wide range of interests. I might forget what I learned last week, but the joy is in the journey, and each project teaches me something new!
+Hi! I'm Pranav Dudhal, a Data Science student at MIT-WPU with bachelor's degree in Physics with a strong foundation in statistics, an insatiable curiosity for technology, and a creative spirit fueled by ADHD. I’m constantly diving into new tech projects, learning as much as I can, and using my ADHD to explore a wide range of interests. I might forget what I learned last week, but the joy is in the journey, and each project teaches me something new!
 
 ## How ADHD Fuels My Creativity
 
